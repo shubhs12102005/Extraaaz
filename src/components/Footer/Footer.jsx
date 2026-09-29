@@ -34,7 +34,7 @@ export default function Footer() {
                     Headquarters
                   </div>
                   <address className="text-xs not-italic leading-snug text-slate-200">
-                    Read Number 8, SG Barde Rd, Wagle Estate, Padwal Nagar, Thane West, Maharashtra 400604
+                    Road Number 8, SG Barve Rd, Wagle Estate, Padwal Nagar, Thane West, Maharashtra 400604
                   </address>
                 </div>
               </div>
@@ -77,7 +77,7 @@ export default function Footer() {
         </div>
       </section>
 
-      {/* Main Extraaaz Footer (Exact Source Structure) */}
+      {/* Main Silgate Solutions Footer (Exact Source Structure) */}
       <footer className="border-t border-border bg-muted/40">
         <div className="container-default py-14">
           <div className="grid gap-10 lg:grid-cols-[1.2fr_repeat(4,1fr)]">

@@ -4,7 +4,7 @@ import { Mail, MapPin, Phone } from 'lucide-react';
 const contactDetails = [
   {
     label: 'Headquarters',
-    value: 'Read Number 8, SG Barde Rd, Wagle Estate, Padwal Nagar, Thane West, Maharashtra 400604',
+    value: 'Road Number 8, SG Barve Rd, Wagle Estate, Padwal Nagar, Thane West, Maharashtra 400604',
     href: 'https://www.google.com/maps/search/?api=1&query=Read+Number+8+SG+Barde+Rd+Wagle+Estate+Thane+West+Maharashtra+400604',
     Icon: MapPin,
   },

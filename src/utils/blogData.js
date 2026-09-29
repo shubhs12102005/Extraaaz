@@ -4,13 +4,13 @@ export const blogArticles = [
     title: "The Ultimate Guide to POS Solutions for Indian Businesses",
     slug: "ultimate-guide-pos-solutions-indian-businesses",
     category: "POS Solutions",
-    author: "Extraaaz Team",
+    author: "Silgate Team",
     date: "September 15, 2023",
     readTime: "6 min read",
     excerpt: "Discover how the right POS solution can transform your business operations, enhance customer experiences, and drive growth in the Indian market.",
     content: [
       "In today's competitive business landscape, having the right Point of Sale (POS) solution is no longer a luxury—it's a necessity. For Indian businesses, from small local shops to large retail chains and restaurants, a well-implemented POS system can be the difference between struggling to keep up and thriving in an increasingly digital marketplace.",
-      "At Extraaaz, we understand the unique challenges faced by Indian businesses. Our suite of POS solutions is designed specifically to address these challenges while providing cutting-edge technology that scales with your business growth.",
+      "At Silgate Solutions, we understand the unique challenges faced by Indian businesses. Our suite of POS solutions is designed specifically to address these challenges while providing cutting-edge technology that scales with your business growth.",
       "India's retail and hospitality sectors have witnessed phenomenal digital acceleration. With UPI processing billions of merchant transactions monthly and customers demanding instant digital invoices via WhatsApp, traditional cash registers and disconnected billing desktop software are rapidly obsolete.",
       "A modern POS ecosystem connects your sales terminal directly to inventory reorder points, kitchen display systems (KDS), multi-branch accounting and customer loyalty campaigns."
     ]
@@ -20,7 +20,7 @@ export const blogArticles = [
     title: "Advanced POS Solutions and ERP Systems to Revolutionize Restaurant Management in 2025",
     slug: "advanced-pos-solutions-erp-restaurant-management-2025",
     category: "Restaurant Technology",
-    author: "Extraaaz Team",
+    author: "Silgate Team",
     date: "November 20, 2023",
     readTime: "8 min read",
     excerpt: "How next-generation POS systems integrated with ERP software are empowering restaurants, bars, and cloud kitchens to maximize margins and delight guests.",
@@ -66,12 +66,12 @@ export const blogArticles = [
     title: "Why Gratitude is the Key to a Happier, More Fulfilling Life",
     slug: "why-gratitude-key-happier-fulfilling-life",
     category: "Leadership & Mindset",
-    author: "Extraaaz Culture Team",
+    author: "Silgate Culture Team",
     date: "March 12, 2024",
     readTime: "4 min read",
     excerpt: "Building an authentic workplace culture rooted in mutual respect, gratitude, and employee empowerment.",
     content: [
-      "At Extraaaz, we believe that software reflects the mindset of the team that crafts it. An organization driven by gratitude towards its clients, channel partners, and colleagues cultivates empathy.",
+      "At Silgate Solutions, we believe that software reflects the mindset of the team that crafts it. An organization driven by gratitude towards its clients, channel partners, and colleagues cultivates empathy.",
       "When engineering teams truly appreciate the daily struggle of a small shopkeeper or cloud kitchen cook, they build simpler, cleaner, and more forgiving software interfaces."
     ]
   },
@@ -86,7 +86,7 @@ export const blogArticles = [
     excerpt: "Shifting from a scarcity mindset to an ecosystem mindset: how collaboration beats isolation in Indian commerce.",
     content: [
       "Traditional Indian commerce often treated business as a zero-sum game of beating local competitors. In the modern platform economy, collaborative ecosystems create exponential value.",
-      "By integrating hardware makers, SaaS developers, local channel franchisees and merchant communities, Extraaaz fosters an ecosystem where every stakeholder wins together."
+      "By integrating hardware makers, SaaS developers, local channel franchisees and merchant communities, Silgate Solutions fosters an ecosystem where every stakeholder wins together."
     ]
   },
   {
@@ -94,7 +94,7 @@ export const blogArticles = [
     title: "How to Maintain Work Life Balance in a Busy World",
     slug: "how-to-maintain-work-life-balance-busy-world",
     category: "Workplace Wellness",
-    author: "Extraaaz HR",
+    author: "Silgate Solutions HR",
     date: "May 25, 2024",
     readTime: "5 min read",
     excerpt: "Practical ways business leaders and software creators can prevent burnout and nurture long-term vitality.",
@@ -107,7 +107,7 @@ export const blogArticles = [
     title: "Empowerment Growth and Success Strategies for Indian SMBs",
     slug: "empowerment-growth-success-strategies",
     category: "Business Strategy",
-    author: "Extraaaz Strategy Desk",
+    author: "Silgate Solutions Strategy Desk",
     date: "June 30, 2024",
     readTime: "7 min read",
     excerpt: "Tactical strategies for tier-2 and tier-3 city enterprises to leverage cloud technology, local marketing, and supply chain efficiencies.",

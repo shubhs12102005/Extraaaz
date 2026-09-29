@@ -1,13 +1,13 @@
 export const allProducts = [
   {
-    id: "extraaaz-pos",
-    name: "Extraaaz POS (EPOS)",
+    id: "silgate-pos",
+    name: "Silgate POS (EPOS)",
     category: "Hospitality Point of Sale",
     targetMarket: "Fine Dining, Bars, QSRs, Cafes, Multi-Branch Chains",
     marketSize: "25 lakh+ restaurants in India",
     priceRange: "₹6,000 – ₹25,000",
     description: "Full-featured restaurant management software with live Zomato and Swiggy online order auto-injection, table-side captain ordering, recipe costing, and multi-outlet controls.",
-    link: "/products/extraaaz-pos-restaurant-management-software.php",
+    link: "/products/silgate-pos-restaurant-management-software.php",
     industry: "Hospitality",
     color: "#f59e0b",
     features: [
@@ -61,7 +61,7 @@ export const allProducts = [
   },
   {
     id: "warehouse-manager",
-    name: "Extraaaz Warehouse Manager",
+    name: "Silgate Warehouse Manager",
     category: "Warehouse Management System (WMS)",
     targetMarket: "Traders, Importers, Distributors, FMCG Depots, 3PL Providers",
     marketSize: "15 lakh+ warehouses",

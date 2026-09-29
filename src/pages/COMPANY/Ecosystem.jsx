@@ -86,7 +86,7 @@ export default function Ecosystem() {
             </span>
           </div>
           <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl leading-tight">
-            The Extraaaz Business OS <span className="text-gradient-brand">Ecosystem</span>
+            The Silgate Solutions <span className="text-gradient-brand">Ecosystem</span>
           </h1>
           <p className="mt-5 text-lg text-muted-foreground leading-relaxed">
             One shared data layer behind every department. When a transaction is booked on the operational frontline, every downstream module — warehouse, inventory, finance, and analytics — updates in real time with zero duplicate data entry.
@@ -132,7 +132,7 @@ export default function Ecosystem() {
             Flagship Operating Systems
           </h2>
           <p className="mt-2 text-muted-foreground">
-            Explore how each industry-tailored OS connects directly into the Extraaaz core platform.
+            Explore how each industry-tailored OS connects directly into the Silgate Solutions core platform.
           </p>
 
           <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -171,7 +171,7 @@ export default function Ecosystem() {
               Horizontal Business Applications
             </h2>
             <p className="mt-3 text-muted-foreground leading-relaxed">
-              Every Extraaaz workspace comes equipped with enterprise business apps that eliminate the need for third-party point solutions.
+              Every Silgate Solutions workspace comes equipped with enterprise business apps that eliminate the need for third-party point solutions.
             </p>
           </div>
 

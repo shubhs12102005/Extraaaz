@@ -4,9 +4,7 @@ import {
   Compass,
   BookOpen,
   Sparkles,
-  ShieldCheck,
-  Cpu,
-  Boxes
+  ShieldCheck
 } from 'lucide-react';
 
 const solutionsList = [
@@ -14,8 +12,8 @@ const solutionsList = [
   { label: "Replace spreadsheets", href: "/solutions/#spreadsheets", icon: BookOpen },
   { label: "Scale multi-location", href: "/solutions/#scale", icon: Sparkles },
   { label: "Compliance ready", href: "/solutions/#compliance", icon: ShieldCheck },
-  { label: "Automate the busy work", href: "/solutions/#automate", icon: Cpu },
-  { label: "Integrate the rest of your stack", href: "/solutions/#integrate", icon: Boxes }
+  // { label: "Automate the busy work", href: "/solutions/#automate", icon: Cpu },
+  // { label: "Integrate the rest of your stack", href: "/solutions/#integrate", icon: Boxes }
 ];
 
 export default function SolutionsMenu({ onClose }) {

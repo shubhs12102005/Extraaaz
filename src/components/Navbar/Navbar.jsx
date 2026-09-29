@@ -82,7 +82,7 @@ export default function Navbar() {
             alt="Silgate Solutions"
             width="784"
             height="289"
-            className="h-8 w-auto shrink-0 select-none sm:h-9"
+            className="h-12 w-auto shrink-0 select-none sm:h-9"
             src="/silgate-logo-latest.png"
           />
         </Link>
@@ -302,8 +302,8 @@ export default function Navbar() {
                   <Link to="/solutions/#spreadsheets" className="block rounded-lg px-3 py-1.5 text-sm text-foreground/80 hover:bg-muted hover:text-foreground">Replace spreadsheets</Link>
                   <Link to="/solutions/#scale" className="block rounded-lg px-3 py-1.5 text-sm text-foreground/80 hover:bg-muted hover:text-foreground">Scale multi-location</Link>
                   <Link to="/solutions/#compliance" className="block rounded-lg px-3 py-1.5 text-sm text-foreground/80 hover:bg-muted hover:text-foreground">Compliance ready</Link>
-                  <Link to="/solutions/#automate" className="block rounded-lg px-3 py-1.5 text-sm text-foreground/80 hover:bg-muted hover:text-foreground">Automate the busy work</Link>
-                  <Link to="/solutions/#integrate" className="block rounded-lg px-3 py-1.5 text-sm text-foreground/80 hover:bg-muted hover:text-foreground">Integrate the rest of your stack</Link>
+                  {/* <Link to="/solutions/#automate" className="block rounded-lg px-3 py-1.5 text-sm text-foreground/80 hover:bg-muted hover:text-foreground">Automate the busy work</Link>
+                  <Link to="/solutions/#integrate" className="block rounded-lg px-3 py-1.5 text-sm text-foreground/80 hover:bg-muted hover:text-foreground">Integrate the rest of your stack</Link> */}
                 </div>
               )}
             </div>
