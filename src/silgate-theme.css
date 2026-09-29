@@ -1,0 +1,30 @@
+:root {
+  color-scheme: light;
+  --background: 255 255 255;
+  --foreground: 13 39 64;
+  --muted: 241 246 249;
+  --muted-foreground: 76 94 111;
+  --border: 216 227 235;
+  --input: 216 227 235;
+  --ring: 237 105 68;
+  --card: 255 255 255;
+  --card-foreground: 13 39 64;
+  --brand-50: 255 245 239;
+  --brand-100: 255 231 218;
+  --brand-200: 255 207 184;
+  --brand-300: 255 177 143;
+  --brand-400: 250 159 115;
+  --brand-500: 248 145 99;
+  --brand-600: 241 128 77;
+  --brand-700: 183 65 38;
+  --brand-800: 133 48 30;
+  --brand-900: 82 34 27;
+  --accent-500: 0 74 132;
+  --accent-600: 0 57 103;
+  --shadow-glow: 0 20px 60px -10px rgb(226 91 58 / 35%);
+}
+
+::selection {
+  background-color: rgb(226 91 58 / 85%);
+  color: white;
+}
